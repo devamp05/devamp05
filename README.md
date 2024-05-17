@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devamp05
-- 👀 I’m interested in web development and operating systems.
-- 🌱 I’m currently learning computer networks and software management.
+- 👀 I have knowledge about backend web and mobile app development, operating systems, computer networks and software management.
+- 🌱 I’m currently learning frontend mobile app development.
 - 📫 How to reach me pateldevam.work@gmail.com
 
 <!---
