@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @devamp05
-- 👀 I have knowledge and experience with backend web and mobile app development, various network and cloud protocols including TCP/UDP, gRPC, REST and more, threads management and synchronization, sockets programming and team based software development following Agile Methodology.
-- 🌱 I’m currently learning frontend mobile app development.
-- 📖 I have completed coursework in Software Management, Software Engineering, Algorithm Design Analysis and Correctness, Implementation of GUI, Operating Systems Concepts, Computer Networks, Cloud and Mobile 
-      Computing, and Full Stack Web Programming.
-- 🎯 I plan on learning new software technologies, following best practices and improve my software development and problem solving skills.
-- 📫 How to reach me pateldevam.work@gmail.com
+- Hi, I’m @devamp05
 
 <!---
 devamp05/devamp05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
